@@ -1,4 +1,4 @@
-Sure, I can guide you through the process of creating an ASP.NET Core application with Microsoft SQL Server. In this example, we'll create a simple web application that interacts with a SQL Server database. We'll use Entity Framework Core for database access.
+creating an ASP.NET Core application with Microsoft SQL Server. In this example, we'll create a simple web application that interacts with a SQL Server database. We'll use Entity Framework Core for database access.
 
 Here's a step-by-step guide:
 
